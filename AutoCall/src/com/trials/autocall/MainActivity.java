@@ -14,7 +14,7 @@ import android.view.View;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
-
+//Changes line at 6.50 on 30/1/2013
 	public static final String PREFS_NAME = "MyPrefsFile";
 	private static final int CONTACT_PICKER_RESULT = 1001;
 	
